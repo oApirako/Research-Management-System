@@ -1,0 +1,6 @@
+คู่มือสำหรับเจ้าหน้าที่: หน้าสรุปผลบทความ
+
+- ใช้สำหรับดูและจัดการสรุปผลการตรวจสอบบทความ
+- สามารถดูสถานะและผลการประเมินของแต่ละบทความ
+
+![bob](https://media.istockphoto.com/id/147271857/photo/man-dressed-as-pirate-with-a-knife-in-his-mouth-on-a-laptop.jpg?s=612x612&w=0&k=20&c=HAyjBt4EdZRwcxB55-SjcnpjK_GiZkUs8WMBKs2p0cw=|0.6)
